@@ -32,16 +32,16 @@ class HttpService {
               context: context,
               builder: (context) => AlertDialog(
                     backgroundColor: Colors.white,
-                    title: Text(
+                    title: const Text(
                       'TECH NEWS',
                       style: TextStyle(fontSize: 30),
                     ),
                     content: Row(
                       children: [
-                        Icon(Icons.person),
+                        const Icon(Icons.person),
                         Text(
                           'Bienvenido $user',
-                          style: TextStyle(fontSize: 20),
+                          style: const TextStyle(fontSize: 20),
                         )
                       ],
                     ),
@@ -56,12 +56,12 @@ class HttpService {
             context: context,
             builder: (context) => AlertDialog(
                   backgroundColor: Colors.white,
-                  title: Text(
+                  title: const Text(
                     'TECH NEWS',
                     style: TextStyle(fontSize: 30),
                   ),
                   content: Row(
-                    children: [
+                    children: const [
                       Icon(Icons.person),
                       Text(
                         'Usuario Inexistente',
