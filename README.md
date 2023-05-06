@@ -1,4 +1,4 @@
-Para probar el apk del proyecto sin despliegue: https://drive.google.com/drive/folders/1il0GaWfbiVkwH9FtyMd8pVyi4aM9hn17
+Para probar el apk del proyecto sin despliegue: https://drive.google.com/drive/folders/1XAWAj2pAxQK66OXA2vpY2UGT1dITNe3q?usp=share_link
 
 # tech_newsfinal
 
