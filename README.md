@@ -1,3 +1,5 @@
+Para probar el apk del proyecto sin despliegue: https://drive.google.com/drive/folders/1il0GaWfbiVkwH9FtyMd8pVyi4aM9hn17
+
 # tech_newsfinal
 
 A new Flutter project.
